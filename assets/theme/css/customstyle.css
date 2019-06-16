@@ -1,0 +1,26 @@
+/*!
+ * Mobirise v4 theme (https://mobirise.com/)
+ * Copyright 2017 Mobirise
+ */
+#containerTimelineText {
+  text-align: left;
+}
+
+#overlayTinted {
+  opacity: 0.6; 
+  background-color: rgb(99, 90, 81);
+}
+
+.listRoleDescriptionWithProjects {
+  margin-bottom:16pt;
+}
+
+.listRoleDescriptionWithoutProject {
+  margin-bottom:-4pt;
+}
+
+.listProjectsInvolved {
+  list-style-type:circle;
+  margin-bottom:-4pt;
+  margin-top:8pt;
+}
